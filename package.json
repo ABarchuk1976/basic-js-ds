@@ -8,10 +8,12 @@
     "npm": "8"
   },
   "directories": {
-    "test": "test"
+    "test": "test",
+    "start": "node"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node"
   },
   "repository": {
     "type": "git",
